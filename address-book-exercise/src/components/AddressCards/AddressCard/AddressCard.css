@@ -1,0 +1,17 @@
+.AddressCard {
+    width: 28%;
+    margin: 16px 10px 0 0 ;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 2px rgb(29, 219, 194);
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    min-width: 250px;
+    background-color: #fff;
+}
+
+.AddressCard input {
+    height: 20px;
+    font-size: 16px;
+    color: #666;
+}
